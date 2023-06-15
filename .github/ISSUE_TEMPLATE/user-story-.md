@@ -1,5 +1,5 @@
 ---
-name: 'User story '
+name: 'User story:'
 about: This is our default user story
 title: USER STORY <TITLE>
 labels: ''
